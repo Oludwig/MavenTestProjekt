@@ -8,7 +8,7 @@ public class App
 {
 	
 	public static int one(){
-		return 2;
+		return 1;
 	}
 	
 	public static int two(){
